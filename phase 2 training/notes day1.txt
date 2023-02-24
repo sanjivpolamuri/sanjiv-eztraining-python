@@ -1,0 +1,29 @@
+its a annonymus function .
+when u wanty to use func without func name there we apply concept of lamda function.
+
+
+
+Write a program after creating a list with even nos within the range 1 - 15 now apply lambda function and create a new list, which shuld hv sqrt of the elem.
+
+
+4 pillars of oops
+1.abstraction
+2.encapsulation
+3.inheritence
+4.polymorphism
+
+1. hiding the implementation part showing , wht is req for the users .
+ex: exe file , we can make class or method as abstract , opp to abstract is concrete
+
+2.Binding the data and func into single entity
+public --------> class info can be accessed
+private--------> class info cannot accessed 
+protected------>can be accesed where it is declared whichever class inherited from this class there also we can use it.
+
+3.derived class will accquire properities of base class
+   -->single
+   -->multiple
+   -->multilevel
+  --->hirearichal
+  --->hybrid
+++++++++
