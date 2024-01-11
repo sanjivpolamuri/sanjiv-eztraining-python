@@ -1,9 +1,0 @@
-creating a linked list
-1. create the node 
-2.partition the node with 2 segments data and address
-3. add value into the blank node
-4.mark the node as head 
-5. create the next node by following the above steps
-6. establish link between 1st and the 2nd node
- 
-display linked list
